@@ -20,6 +20,7 @@
 .slide {
     width: 25%;
     position: relative;
+    transition: 1.5s;
 }
 .slide img {
     width: 800px;
